@@ -8,3 +8,5 @@ ubuntu
 CentOS
 ansible
 jenkins
+lsof
+grep
